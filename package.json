@@ -1,0 +1,24 @@
+{
+  "name": "gulp-module-complexity",
+  "version": "0.0.1",
+  "description": "Gulp Integration for Complexity Module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prowl/gulp-module-complexity.git"
+  },
+  "keywords": [
+    "Complexity",
+    "Prowl",
+    "Gulp"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com> (http://thotjs.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prowl/gulp-module-complexity/issues"
+  },
+  "homepage": "https://github.com/prowl/gulp-module-complexity"
+}
