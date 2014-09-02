@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-complexity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp Integration for Complexity Module",
   "main": "lib/index.js",
   "scripts": {
